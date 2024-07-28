@@ -6,7 +6,7 @@ function Work() {
       <ol >
         <li> <b>Python Programmer</b>   : <span> ★ ★ ★ ★ ★ </span></li>
         <li> <b>C++ Programmer </b> : <span>★ ★ ★ ★ ★</span> </li>
-        <li> <b>Data Structures & Algorithm </b> : <span>★ ★ ★ ★</span>  ★ </li>
+        <li> <b>DSA </b> : <span>★ ★ ★ ★</span>  ★ </li>
         <li> <b>HTML , CSS , Javascript </b> : <span>★ ★ ★ ★</span>  ★</li>
         <li> <b> Express : <span> ★ ★ ★ </span> ★ ★</b> </li>
         <li> <b>Mongo DB : <span>★ ★ ★ </span> ★ ★</b> </li>
